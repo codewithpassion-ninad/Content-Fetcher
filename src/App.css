@@ -1,0 +1,29 @@
+h1
+{
+  text-align: center;
+  color: #fff;
+}
+
+body
+{
+  background-color: #000;
+}
+
+table
+{
+  color: #fff;
+  border: solid #fff 2px;
+}
+
+th, td
+{
+  border: 1px solid #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.image
+{
+  width: 60px;
+  height: 60px;
+}
